@@ -1,0 +1,30 @@
+[bg file='chapters/1/1_bg_pre.png']
+
+[text show]
+I should believe that even the most impossible dreams might come true.[r]
+Henryk Sienkiewicz[r]
+[text set italic=true]
+Quo Vadis[p]
+[text set italic=false]
+
+[bg file='chapters/1/1_bg_pre.png' pretrans]
+[bg file='chapters/1/1_bg_bw.png' trans method='ripple']
+
+Water...[p]
+Dark...[p]
+Confusion...[p]
+
+【Self】
+Where am I?[p]
+...[p]
+Seems that i have been in deep water.[p]
+Why...[p]
+Why the heck am I here?[p]
+【】
+
+[bg file='chapters/1/1_bg_bw.png' pretrans]
+[bg file='chapters/1/1_bg_down.png' trans method='crossfade']
+
+oh![p]
+
+[router push path='/story/2']

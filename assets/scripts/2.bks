@@ -1,0 +1,13 @@
+[bg file='common/pass.png']
+
+[text show]
+...[p]
+
+[bg file='common/pass.png' pretrans]
+[bg file='chapters/2/bedroom.png' trans method='crossfade']
+
+Well,[l] that's only a dream.[p]
+
+[fg center file='fg/image.png']
+
+[router push path='/title']
